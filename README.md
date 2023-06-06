@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working on CRM<br>🌱 I’m currently learning Advance Javascript<br>💬 Ask me about anything<br>⚡ The term "bug" for a programming error comes from a real insect. In 1947, a moth caused a malfunction in the Harvard Mark II computer, leading to the phrase "debugging.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/syed-wali5/) 
